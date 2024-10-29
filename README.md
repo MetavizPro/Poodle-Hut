@@ -37,11 +37,10 @@ This project demonstrates my capability in developing functional, user-centric d
 
 ## 👨‍💻 About the Developer
 
-At Metaviz, we have a team of experienced *Brilliant Directories* developers. We specialize in creating responsive, feature-rich directory platforms like *Poodle Hut*, where every functionality — from expert booking to user-friendly navigation — is optimized for user satisfaction and business success.
+At Metaviz, we have a team of experienced **Brilliant Directories developers**.We specialize in creating tailored directory solutions that empower pet owners to connect with trusted pet services through user-friendly, SEO-optimized platforms. The Poodle Hut project showcases my ability to build feature-rich directories that deliver real value to both users and service providers.
 
-If you’re interested in building a custom directory platform to help users connect with your services, let’s connect and make it happen!
+If you're seeking a **Brilliant Directories** expert to develop or enhance your directory platform, let’s collaborate and create a powerful tool for your business.
 
----
 
 ## 📬 Contact Me
 
